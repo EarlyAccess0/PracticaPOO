@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\clase.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\clase.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\clase.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\bin\Debug\net8.0\clase.exe
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\bin\Debug\net8.0\clase.deps.json
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\bin\Debug\net8.0\clase.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\bin\Debug\net8.0\clase.dll
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\bin\Debug\net8.0\clase.pdb
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\clase.dll
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\refint\clase.dll
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\clase.pdb
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\clase.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\App_Class\clase\obj\Debug\net8.0\ref\clase.dll
